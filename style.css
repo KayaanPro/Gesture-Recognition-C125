@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+    background-color: rgb(128, 165, 197);
+    color: aliceblue;
+    margin: 0;
+    padding: 10px;
+    
+}
+
+.note{
+    font-size: large;
+    color: rgb(175, 223, 247);
+}
+
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: rgb(144, 172, 196);
+    font-size: large;
+    color: aliceblue;
+}
+
+canvas{
+    box-shadow:15px 15px 15px rgb(128, 165, 197);
+    border-radius: 17px;
+    margin-top: 30px;
+}
